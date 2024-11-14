@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594559826135",
+    "project_id": "fir-notes-d1bf0",
+    "storage_bucket": "fir-notes-d1bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594559826135:android:642fd60b9bd7a277f7d892",
+        "android_client_info": {
+          "package_name": "sandoval.eduardo.firebasenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuPwaojzL43MrnyxWt21lnsES6vuMeLXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
